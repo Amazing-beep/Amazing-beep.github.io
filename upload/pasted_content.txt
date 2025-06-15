@@ -1,0 +1,90 @@
+Responsive Web Design - Resume Assignment
+Due Friday by 1am Points 100 Submitting a website url Available after Jun 12 at 12am
+BSE Canvas Header Templates.pptx (12).png
+
+For this assignment, you will create a personal resume website using pure HTML, CSS, and JavaScript. The site should showcase your skills, experience, education, and projects in a visually appealing, easy-to-navigate, and mobile-friendly format.
+
+Requirements:
+The site must be fully responsive, adapting layout and content for desktop, tablet, and mobile screens. Use media queries and relative units like EM or percentages.
+The resume content should be accurate and up-to-date, including your skills, work experience, education, projects, and contact info.
+Incorporate custom CSS styles without using any frameworks like Bootstrap. Get creative with colors, fonts, and layouts!
+Include interactivity using JavaScript. This could be a responsive:
+navbar,
+form validations,
+image sliders,
+modals,
+etc.
+Deploy the site on GitHub pages and submit the URL.
+The site must validate without errors and function properly on Chrome, Firefox, Safari, and Edge.
+Comment your code properly and use semantic HTML tags.
+Site content and design should be unique and not copied from templates.
+This resume site is a summative assessment for this module and will be graded based on requirements, creativity, and code quality. The goal is to demonstrate your HTML/CSS/JS skills by building a professional, responsive personal website that will showcase your abilities to potential employers or anyone who you network with.
+
+Rubric
+Submission Rubrics
+Submission Rubrics
+Criteria	Ratings	Pts
+This criterion is linked to a Learning OutcomeResponsiveness
+20 to >18.0 pts
+Excellent
+Layout adapts seamlessly across desktop, tablet, and mobile; appropriate use of media queries and fluid units
+18 to >10.0 pts
+Good
+Minor layout issues on one screen size
+10 to >0 pts
+Needs Improvement
+Major responsiveness issues or poor use of relative units
+20 pts
+This criterion is linked to a Learning OutcomeContent Accuracy
+20 to >15.0 pts
+Full Marks
+Content is up-to-date, well-organized, and includes all key resume sections (skills, education, experience, projects, contact)
+15 to >10.0 pts
+Good
+One section slightly lacking detail or outdated
+10 to >0.0 pts
+Needs Improvement
+Multiple key sections missing or unclear
+0 pts
+No Marks
+20 pts
+This criterion is linked to a Learning OutcomeInteractivity via JavaScript
+20 to >15.0 pts
+Excellent
+Interactive features (e.g., form validation, modal, navbar, slider) are well-implemented and enhance UX
+15 to >10.0 pts
+Good
+Some interactivity present but limited or buggy
+10 to >5.0 pts
+Needs Improvement
+No meaningful interactivity or broken JS features
+5 to >0 pts
+No Marks
+20 pts
+This criterion is linked to a Learning OutcomeNo Frameworks or Templates Used
+20 to >15.0 pts
+Excellent
+Fully original design and code; no use of frameworks or prebuilt templates
+15 to >5.0 pts
+Good
+Minor visual inspiration taken but no copied code
+5 pts
+Needs Improvement
+Use of external template or framework evident
+5 to >0 pts
+No Marks
+20 pts
+This criterion is linked to a Learning OutcomeDeployment on GitHub Pages
+20 to >15.0 pts
+Excellent
+Site is deployed successfully and accessible via URL; no display or runtime errors
+15 to >5.0 pts
+Good
+Deployed but with some loading or layout bugs
+5 to >0.0 pts
+Needs Improvement
+Not deployed or URL broken/inaccessible
+0 pts
+No Marks
+20 pts
+Total Points: 100
